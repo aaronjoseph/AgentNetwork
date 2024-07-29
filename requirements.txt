@@ -1,3 +1,8 @@
+fastapi==0.111.1
+gradio==4.39.0
 langchain==0.2.11
-requests==2.32.3
 ollama==0.3.0
+pre-commit==3.8.0
+pydantic==2.8.2
+requests==2.32.3
+uvicorn==0.30.3
